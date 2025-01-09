@@ -72,5 +72,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niraj11parihar&show_icons=true&locale=en&layout=compact" alt="niraj11parihar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj11parihar&show_icons=true&locale=en" alt="niraj11parihar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj11parihar&" alt="niraj11parihar" /></p>
