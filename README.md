@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EmployeesManagement**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-2-o.onrender.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-2-me4a.vercel.app/)
 
 - 📫 How to reach me **nirajp201icloud.com@gmail.com**
 
