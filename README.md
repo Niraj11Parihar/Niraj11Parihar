@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niraj11parihar" alt="niraj11parihar" /></a> </p>
 
-- 🔭 I’m currently working on **EmployeesManagement**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-2-me4a.vercel.app/)
 
 - 📫 How to reach me **nirajp201icloud.com@gmail.com**
